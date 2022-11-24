@@ -7,11 +7,11 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/enilu/web-flash-spring-cloud.git
+          uri: https://github.com/liuguoqi618/web-flash-spring-cloud.git
           force-pull: true
           search-paths: config
-          username: enilu
-          password: sheseerzuo
+          username: liuguoqi618
+          password: q1211321.*
           refresh-rate: 15
           default-label: main
 eureka:
