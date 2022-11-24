@@ -13,7 +13,7 @@ spring:
           username: liuguoqi618
           password: q1211321.*
           refresh-rate: 15
-          default-label: main
+          default-label: master
 eureka:
   client:
     serviceUrl:
